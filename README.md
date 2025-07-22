@@ -47,11 +47,13 @@ python redbox.py
 ## 📂 Folder Structure
 RedBox-Secure-Vault/
 │
-├── redbox.py              # Main application
-├── requirements.txt       # All dependencies
-├── red_box_vault/         # Encrypted files and keys
-├── README.md              # Project documentation
-└── .gitignore             # Ignored files/folders
+├── redbox.py             # Main application
+├── requirements.txt      # All dependencies
+├── red_box_vault/        # Encrypted files and keys
+├── README.md             # Project documentation
+├── .gitignore            # Ignored files/folders
+└── screenshots/          # (Optional) GUI screenshots
+
 📸 Screenshots
 Login Face Recognition	Voice Authentication	Vault Dashboard
 
