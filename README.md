@@ -35,13 +35,13 @@ cd RedBox-Secure-Vault
 ### 2️⃣ Create Virtual Environment
 python -m venv redbox_env
 
-###3️⃣ Activate Virtual Environment
+### 3️⃣ Activate Virtual Environment
 redbox_env\Scripts\activate
 
-###4️⃣ Install Dependencies
+### 4️⃣ Install Dependencies
 pip install -r requirements.txt
 
-###5️⃣ Run the App
+### 5️⃣ Run the App
 python redbox.py
 
 📂 Folder Structure
