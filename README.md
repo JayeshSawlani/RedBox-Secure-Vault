@@ -56,12 +56,15 @@ RedBox-Secure-Vault/
 
 📸 Screenshots
 Login Face Recognition
+
 <img width="342" height="180" alt="image" src="https://github.com/user-attachments/assets/4a7690d0-5639-45b5-924e-d559784b4698" />
 
 Voice Authentication
+
 <img width="306" height="189" alt="image" src="https://github.com/user-attachments/assets/c694c324-41fe-4db8-bc2f-4e79ebdd172d" />
 
 Vault Dashboard
+
 <img width="874" height="668" alt="image" src="https://github.com/user-attachments/assets/15b2ba05-94c9-4823-9cb5-2e2222b19062" />
 
 
