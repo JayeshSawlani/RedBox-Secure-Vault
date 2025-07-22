@@ -29,41 +29,22 @@ A **Biometric Secure Vault** for sensitive files with advanced **AES encryption*
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/JayeshSawlani/RedBox-Secure-Vault.git
 cd RedBox-Secure-Vault
-2️⃣ Create Virtual Environment
-bash
-Copy
-Edit
+
+### 2️⃣ Create Virtual Environment
 python -m venv redbox_env
-3️⃣ Activate Virtual Environment
-Windows:
 
-bash
-Copy
-Edit
+###3️⃣ Activate Virtual Environment
 redbox_env\Scripts\activate
-Linux/Mac:
 
-bash
-Copy
-Edit
-source redbox_env/bin/activate
-4️⃣ Install Dependencies
-bash
-Copy
-Edit
+###4️⃣ Install Dependencies
 pip install -r requirements.txt
-5️⃣ Run the App
-bash
-Copy
-Edit
+
+###5️⃣ Run the App
 python redbox.py
+
 📂 Folder Structure
-pgsql
-Copy
-Edit
 RedBox-Secure-Vault/
 │
 ├── redbox.py              # Main application
