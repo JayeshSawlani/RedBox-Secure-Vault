@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ### 5️⃣ Run the App
 python redbox.py
 
-📂 Folder Structure
+## 📂 Folder Structure
 RedBox-Secure-Vault/
 │
 ├── redbox.py              # Main application
@@ -55,11 +55,11 @@ RedBox-Secure-Vault/
 📸 Screenshots
 Login Face Recognition	Voice Authentication	Vault Dashboard
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-👨‍💻 Author
+## 👨‍💻 Author
 Jayesh Sawlani
